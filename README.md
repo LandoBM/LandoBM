@@ -1,7 +1,9 @@
-# LandonMurray
+# Hi, I am Landon Murray!
 
 🎓 I have a Bachelor's degree in Finance at Georgia Gwinnett College.
+
 📚 I'm currently studying Full-Stack Coding from Georgia Institute of Technology.
+
 🌱 I'm on track for learning more about Web technologies.
 
 See more on my <a href="landobm.github.io/portfolio/" target="_blank">website</a> 
@@ -28,7 +30,6 @@ See more on my <a href="landobm.github.io/portfolio/" target="_blank">website</a
 ### Tools
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
