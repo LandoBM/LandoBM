@@ -20,6 +20,8 @@ See more on my <a href="https://landobm.github.io/portfolio/">website</a>
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-239121?&style=for-the-badge&logo=mongodb3&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-F7DF1E?style=for-the-badge&logo=expressjs&logoColor=black)
+
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-00000F?style=for-the-badge&logo=nosql&logoColor=white)
