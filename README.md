@@ -6,7 +6,7 @@
 
 🌱 I'm on track for learning more about Web technologies.
 
-See more on my <a href="landobm.github.io/portfolio/" target="_blank">website</a> 
+See more on my <a href="https://landobm.github.io/portfolio/">website</a> 
 
 
 <h3 align="center">Tech Stack 🛠</h3>
