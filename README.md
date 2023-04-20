@@ -1,4 +1,4 @@
-<!-- ![Image]() -->
+![LandonHeader](https://user-images.githubusercontent.com/115417694/233251018-00333cf8-829f-4698-98d3-c800a34c5c4c.jpg)
 
 # Hi, I am Landon Murray!
 
@@ -8,7 +8,7 @@
 
 🌱 I'm on track for learning more about Web technologies.
 
-See more on my <a href="https://landobm.github.io/portfolio/">website</a> 
+See more on my <a href="https://landon-portfolio.herokuapp.com/#about">website</a> 
 
 
 <h3 align="center">Tech Stack 🛠</h3>
@@ -16,8 +16,10 @@ See more on my <a href="https://landobm.github.io/portfolio/">website</a>
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
+![Mongoose](https://img.shields.io/badge/Mongoose-239121?&style=for-the-badge&logo=mongoose3&logoColor=white)
+![Api](https://img.shields.io/badge/API-239121?&style=for-the-badge&logo=api3&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-F7DF1E?style=for-the-badge&logo=sequelize&logoColor=black)
+![MVC](https://img.shields.io/badge/MVC-F7DF1E?style=for-the-badge&logo=mvc&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-239121?&style=for-the-badge&logo=mongodb3&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express-F7DF1E?style=for-the-badge&logo=express&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React-ED8B00?style=for-the-badge&logo=react&logoColor=white)
@@ -40,6 +42,12 @@ See more on my <a href="https://landobm.github.io/portfolio/">website</a>
 
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GITLAB](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![CommandLine](https://img.shields.io/badge/CommandLine-330F63?style=for-the-badge&logo=commandlinelab&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-330F63?style=for-the-badge&logo=heroku&logoColor=white)
+
+## Software System
+
+![MacOs](https://img.shields.io/badge/MacOs-330F63?style=for-the-badge&logo=macos&logoColor=white)
 
 <h3 align="center">Let's Get Connect! ☕</h3>
 <p align="center"> 
