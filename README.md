@@ -2,11 +2,11 @@
 
 # Hi, I am Landon Murray!
 
-🎓 I have a Bachelor's degree in Finance at Georgia Gwinnett College.
+🎓 I have a Bachelor's Degree in Finance from Georgia Gwinnett College.
 
-📚 I'm currently studying Full-Stack Coding from Georgia Institute of Technology.
+📚 I have completed the Full-Stack Development course at Georgia Institute of Technology 🐝.
 
-🌱 I'm on track for learning more about Web technologies.
+🌱 I'm on track for learning more about Web technologies and building my skillset.
 
 See more on my <a href="https://landon-portfolio.herokuapp.com/#about">website</a> 
 
