@@ -75,9 +75,6 @@ See more on my <a href="https://landon-portfolio.herokuapp.com/#about">website</
 ## Misc
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Education 
-![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 
 <h3 align="center">Let's Get Connect! ☕</h3>
 <p align="center"> 
